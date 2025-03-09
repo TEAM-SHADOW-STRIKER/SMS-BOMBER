@@ -29,9 +29,9 @@ pkg install git -y
 pkg install python -y  
 pkg install python3 -y
 git clone https://github.com/TEAM-SHADOW-STRIKER/SMS-BOMBER.git  
-cd SMS-BOMBER  
-pip install -r requirements.txt  
+cd SMS-BOMBER
 chmod +x *
+pip install -r requirements.txt  
 python3 sms-bomber.py
 ```
 
