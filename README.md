@@ -5,9 +5,6 @@
 <p align="center">  
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100"/>  
 </p>  
-<p align="center">  
-  <img src="https://media3.giphy.com/media/WFJ8vEKa1GvDkswTAy/giphy.gif" alt="SMS Bomb" width="300"/>  
-</p>  
 
 ### 📢 **একটি শক্তিশালী ও দ্রুত SMS বম্বিং টুল | শুধুমাত্র শিক্ষামূলক এবং পরীক্ষামূলক উদ্দেশ্যে ব্যবহারের জন্য!**  
 
@@ -49,11 +46,6 @@ python3 sms-bomber.py
 
 ---
 
-## 🔥 Screenshots  
-<p align="center">  
-  <img src="https://freeimage.host/i/3fhLGzG" alt="SMS Bomber Screenshot" width="500"/>  
-</p>
-
 
 ---
 
@@ -72,6 +64,4 @@ python3 sms-bomber.py
 
 🔥 **Follow us for more awesome tools!**  
 
----
 
-এখন আরও কোনো কাস্টমাইজেশন লাগবে কি? 🚀
