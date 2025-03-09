@@ -25,7 +25,9 @@ Termux বা Linux টার্মিনালে নিচের কমান�
 
 ```bash
 apt update && apt upgrade -y  
-pkg install git python -y  
+pkg install git -y
+pkg install python -y  
+pkg install python3 -y
 git clone https://github.com/TEAM-SHADOW-STRIKER/SMS-BOMBER.git  
 cd SMS-BOMBER  
 pip install -r requirements.txt  
