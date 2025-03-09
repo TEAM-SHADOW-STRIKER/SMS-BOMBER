@@ -51,8 +51,9 @@ python3 sms-bomber.py
 
 ## 🔥 Screenshots  
 <p align="center">  
-  <img src="https://ibb.co.com/PGd1jgRv" alt="SMS Bomber Screenshot" width="500"/>  
-</p>  
+  <img src="https://i.ibb.co/PGd1jgRv/image.png" alt="SMS Bomber Screenshot" width="500"/>  
+</p>
+
 
 ---
 
