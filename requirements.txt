@@ -3,13 +3,5 @@ httpx
 colorama
 termcolor
 rich
-scapy
-paramiko
-shodan
-pandas
-json5
-pyautogui
-schedule
 beautifulsoup4
-selenium
 
