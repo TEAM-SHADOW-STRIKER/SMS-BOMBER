@@ -61,7 +61,7 @@ python3 sms-bomber.py
 ## 💻 Developed by **TEAM SHADOW STRIKER**  
 <p align="center">  
   <a href="https://github.com/TEAM-SHADOW-STRIKER"><img src="https://img.shields.io/badge/GitHub-TEAM--SHADOW--STRIKER-blue?logo=github"></a>  
-  <a href="https://www.facebook.com/ADIRTTA?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/Follow%20on%20Facebook-blue?logo=facebook"></a>  
+  <a href="https://www.facebook.com/share/g/1MQWUcnW8V/"><img src="https://img.shields.io/badge/Follow%20on%20Facebook-blue?logo=facebook"></a>  
 </p>  
 
 🔥 **Follow us for more awesome tools!**  
