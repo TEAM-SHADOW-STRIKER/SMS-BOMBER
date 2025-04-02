@@ -32,7 +32,7 @@ git clone https://github.com/TEAM-SHADOW-STRIKER/SMS-BOMBER.git
 cd SMS-BOMBER
 chmod +x *
 pip install -r requirements.txt  
-python3 sms-bomber.py
+python3 BOMB.py
 ```
 
 ---
